@@ -12,14 +12,14 @@
 
 Classifies patients into priority levels based on temperature & pain level.
 
-a=int(input("enter your tempreture in Fahrenheit(F)"))
-b=input("enter your pain level none, moderate or severe")
-if(a>102 and b=="severe"):
-    print("High Priority")
-elif(a>=99 and a<=102 and b=="moderate"):
-    print("Medium Priority")
-elif(b=="none"):
-    print("Low Priority")
+ a=int(input("enter your tempreture in Fahrenheit(F)"))
+ b=input("enter your pain level none, moderate or severe")
+ if(a>102 and b=="severe"):
+     print("High Priority")
+ elif(a>=99 and a<=102 and b=="moderate"):
+     print("Medium Priority")
+ elif(b=="none"):
+     print("Low Priority")
 🛒 2. Shopping Cart Free Delivery
 
 Determines if delivery is free based on cart value & membership.
