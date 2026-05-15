@@ -3,11 +3,17 @@
 📘 This repository contains solutions to advanced Python If-Else condition problems, covering real-world scenarios like billing systems, pricing logic, eligibility checks, and more.
 
 📌 Features
+
 ✅ Real-life problem-based questions
+
 ✅ Beginner to intermediate logic building
+
 ✅ Clean Python implementations
+
 ✅ Input/Output examples included
+
 📂 Assignment Topics
+
 🏥 1. Hospital Emergency Room Triage
 
 Classifies patients into priority levels based on temperature & pain level.
